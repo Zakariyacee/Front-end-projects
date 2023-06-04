@@ -162,7 +162,7 @@ document.querySelector("#cart-icon").onclick = () =>{
   menu.classList.remove("move")
 }
 
-/*window.onscroll = () =>{
+window.onscroll = () =>{
   navbar.classList.remove("active");
   menu.classList.remove("move");
   cart.classList.remove("active")
